@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .header {
+    background-color: rgb(211, 210, 210);
+    padding-top: 10px;padding-left: 20px;
+    margin-left: 1px;
+    height: 50px;
+    width: auto;
+  }
+  .nav-bar {
+    overflow: hidden;
+    display:block;
+    width: auto;
+    background-color: rgb(48, 44, 44);
+    height: 39px;
+    margin: 0;
+    padding-left: 1px;
+    border-right: unset;
+  }
+  .nav-bar-content {
+    display: inline;
+    float: left;
+    background-color: rgb(48, 44, 44);
+    width:auto;
+    height: 30px;
+    color: white;
+    margin-bottom: 20px;
+    border:solid white;
+    border-top: unset;
+    border-left: unset;
+    border-width: 1px;
+    padding: 9px 8px 0px 8px;
+  }
+  .nav-bar-content:hover {
+    background-color: green;
+  }

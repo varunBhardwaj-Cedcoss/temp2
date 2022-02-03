@@ -64,3 +64,11 @@ h2 {
 h3 {
   color: rgb(19, 65, 124);
 }
+footer {
+  background-color: rgb(231, 230, 230);
+  margin: 0;
+  padding: 10px 20px 30px 0px;
+  text-align: right;
+  width: auto;
+  height: 5px;
+}
